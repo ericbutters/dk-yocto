@@ -6,7 +6,7 @@
   <remote fetch="git://git.yoctoproject.org" name="yocto"/>
   <remote fetch="git://github.com/Freescale" name="freescale"/>
   <remote fetch="git://git.openembedded.org" name="oe"/>
-  <remote fetch="/media/My\ Passport/DEVEL/BADR/git/" name="meta-s1nn"/>
+  <remote fetch="file:///media/My\ Passport/DEVEL/BADR/git/" name="meta-s1nn"/>
 
   <project remote="yocto" revision="081fddd3e464935e5f438a7686eb8f8856da6281" name="poky" path="sources/poky"/>
   <project remote="yocto" revision="f8016b991029046be04675fc25869e6973edd4b1" name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
