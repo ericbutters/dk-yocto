@@ -3,7 +3,7 @@
 
   <default sync-j="4" revision="master"/>
 
-  <remote fetch="file:///media/My\ Passport/DEVEL/BADR/git/" name="meta-s1nn"/>
+  <remote fetch="file:///media/My\ Passport/DEVEL/BADR/git/meta-s1nn.git" name="meta-s1nn"/>
 
   <project remote="meta-s1nn" revision="master" name="meta-s1nn" path="sources/meta-s1nn"/>
 </manifest>
